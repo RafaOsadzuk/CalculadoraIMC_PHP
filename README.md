@@ -4,4 +4,4 @@
                          o diagnostico, foi feito o site com base nos dados fornecidos por aqui: https://www.calcule.net/saude/tabela-imc/
 
 
-![CalculadoraImcpreview.png]
+
